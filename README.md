@@ -127,15 +127,4 @@ The system uses file handling and linked lists for data storage and management, 
 
 ---
 
-## Future Improvements
 
-* Replace file system with a database (e.g., MySQL)
-* Add a graphical user interface
-* Improve search efficiency (e.g., hashing or trees)
-* Enhance validation and error handling
-
----
-
-## License
-
-This project is for educational purposes.
