@@ -112,7 +112,7 @@ The system uses file handling and linked lists for data storage and management, 
 
 ## Technologies Used
 
-* Programming Language: (add your language here — e.g., C++, Java, etc.)
+* Programming Language: C++
 * File handling
 * Linked lists
 
